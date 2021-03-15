@@ -6,11 +6,11 @@ body {
   font-style: normal;
   font-weight: 400;
   hyphens: auto;
-  line-height: 1.9em;
+  line-height: 2em;
   margin-right: 20px;
   margin-left : 20px;
-  margin-top: 40px;
-  margin-bottom: 80px;
+  margin-top: 80px;
+  margin-bottom: 100px;
   position: relative;
   vertical-align: baseline;
   width: auto;
@@ -66,12 +66,12 @@ span.supText {
 .footnote {
   float: left;
   font-size: 13px;
-  line-height: 1.9em;
+  line-height: 2em;
   width: 25px;
 }
 .description {
   font-size: 13px;
-  line-height: 1.9em;
+  line-height: 2em;
   margin-left: 25px;
   margin-bottom: 10px;
   text-align: justify;
@@ -80,8 +80,6 @@ span.supText {
 body {
   margin-right: auto;
   margin-left : auto;
-  margin-top: 80px;
-  margin-bottom: 100px;
   width: 580px;
 }
 }
