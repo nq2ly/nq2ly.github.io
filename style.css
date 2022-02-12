@@ -1,0 +1,101 @@
+body {
+  background: #FFFFFF;
+  color: #1D1D1F;
+  font-size: 14px;
+  font-family: 'Open Sans', 'Yu Gothic', 'YuGothic', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  hyphens: auto;
+  line-height: 2em;
+  margin-right: 20px;
+  margin-left : 20px;
+  margin-top: 80px;
+  margin-bottom: 120px;
+  position: relative;
+  vertical-align: baseline;
+  width: auto;
+  -webkit-hyphens: auto;
+  -webkit-text-size-adjust: 100%;
+}
+p {
+  margin-bottom: 20px;
+  text-align: justify;
+}
+a {
+  color: #ED0000;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+ul {
+  margin: 0 0 0 -1em;
+  margin-bottom: 25px;
+}
+ol {
+  margin: 0 0 0 -1em;
+  margin-bottom: 25px;
+}
+li {
+  margin-top: 0.2em;
+  text-align: justify;
+}
+dl {
+  margin-top: 50px;
+}
+blockquote {
+  background: #F5F5F5;
+  margin: 0;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: justify;
+}
+span.supText {
+  font-size: 75.5%;
+  position: relative;
+  top: -0.1em;
+  vertical-align: top;
+}
+.home {
+  color: #515154;
+  font-size: 14px;
+  line-height: 0em;
+  margin-bottom: 20px;
+}
+.header1 {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.5em;
+  margin-bottom: 25px;
+}
+.header2 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.foot {
+  float: left;
+  font-size: 13px;
+  line-height: 2em;
+  width: 25px;
+}
+.note {
+  font-size: 13px;
+  line-height: 2em;
+  margin-left: 25px;
+  margin-bottom: 10px;
+  text-align: justify;
+}
+@media screen and (min-width: 660px) {
+body {
+  margin-right: auto;
+  margin-left : auto;
+  width: 580px;
+}
+a:hover {
+  text-decoration: underline;
+}
+}
